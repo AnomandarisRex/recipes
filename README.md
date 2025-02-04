@@ -1,2 +1,2 @@
 # recipes
-HTML practice.
+HTML exercise in creating a webpage with linked recipes utilizing basic HTML elements (headings, lists, images, links). This is for purely educational purposes and I do not claim any rights to the images or recipes utilized within this project.
